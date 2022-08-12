@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jump_temp.ogg-5c16941a12dfa380dc78fb3aa3b553fc.oggstr"
+
+[deps]
+
+source_file="res://audio/sfx/temporary/jump_temp.ogg"
+dest_files=[ "res://.import/jump_temp.ogg-5c16941a12dfa380dc78fb3aa3b553fc.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/gun_shot_temp.ogg-b920dac7d3dec5fe435114b5348b4613.oggstr"
+
+[deps]
+
+source_file="res://audio/sfx/temporary/gun_shot_temp.ogg"
+dest_files=[ "res://.import/gun_shot_temp.ogg-b920dac7d3dec5fe435114b5348b4613.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
